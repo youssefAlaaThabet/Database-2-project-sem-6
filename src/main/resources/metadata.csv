@@ -1,0 +1,3 @@
+test,First Name,java.lang.String,TRUE,TRUE,a,ZZZZZZZZ
+test,Last Name,java.lang.String,FALSE,TRUE,a,ZZZZZZZZ
+test,GPA,java.lang.Double,FALSE,TRUE,0.0,4.0
